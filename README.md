@@ -43,25 +43,6 @@ A full-stack vending machine system built with **Flask**, **MySQL**, **HTML/CSS*
 
 ---
 
-## 📃 Folder Structure
-
-```
-📁 vending-machine-portal/
-🗁️ static/
-🗁️ templates/
-🗋 login.html
-🗋 buy.html
-🗋 cart.html
-🗋 account_settings/
-    🗋 personal_info.html
-    🗋 change_password.html
-    🗋 purchase_insights.html
-app.py
-requirements.txt
-README.md
-```
-
----
 
 ## 📸 Screenshots 
 
