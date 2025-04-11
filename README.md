@@ -1,4 +1,4 @@
-# 🥤 Vending Machine Web Portal
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/7b5b3b95-7587-4a79-8ba9-2a64da380a4a" /># 🥤 Vending Machine Web Portal
 
 A full-stack vending machine system built with **Flask**, **MySQL**, **HTML/CSS**, and **JavaScript**, designed to simulate a real-world vending experience — including user authentication, live cart queueing, product browsing, purchase confirmation with animations, and detailed account settings.
 
@@ -64,13 +64,18 @@ README.md
 
 ---
 
-## 📸 Screenshots (Recommended to Add)
+## 📸 Screenshots 
 
 > Add screenshots or a GIF demo of:
 > - Product browsing
+> - ![Screenshot 2025-04-11 at 4 01 05 PM](https://github.com/user-attachments/assets/7752c08c-6c63-4789-b337-70db195da27c)
+
 > - Cart queueing animation
+> - ![Screenshot 2025-04-11 at 4 01 34 PM](https://github.com/user-attachments/assets/9cdd97a1-37e8-4a84-b1bf-21b5552df4ce)
+
 > - Purchase success screen
-> - Account settings with profile picture
+> - ![Screenshot 2025-04-11 at 4 02 05 PM](https://github.com/user-attachments/assets/8870cd9a-edf2-4520-85f7-fd5f374bcc56)
+
 
 ---
 
