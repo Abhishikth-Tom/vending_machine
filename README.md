@@ -1,4 +1,4 @@
-<img width="1437" alt="image" src="https://github.com/user-attachments/assets/7b5b3b95-7587-4a79-8ba9-2a64da380a4a" /># ![Screenshot 2025-04-11 at 4 02 05 PM](https://github.com/user-attachments/assets/b7222555-680c-48e7-b697-320addc824c4)
+![Screenshot 2025-04-11 at 4 02 05 PM](https://github.com/user-attachments/assets/b7222555-680c-48e7-b697-320addc824c4)
 A full-stack vending machine system built with **Flask**, **MySQL**, **HTML/CSS**, and **JavaScript**, designed to simulate a real-world vending experience — including user authentication, live cart queueing, product browsing, purchase confirmation with animations, and detailed account settings.
 
 ---
