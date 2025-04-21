@@ -46,7 +46,6 @@ A full-stack vending machine system built with **Flask**, **MySQL**, **HTML/CSS*
 
 ## 📸 Screenshots 
 
-> Add screenshots or a GIF demo of:
 > - Product browsing
 > - ![Screenshot 2025-04-11 at 4 01 05 PM](https://github.com/user-attachments/assets/7752c08c-6c63-4789-b337-70db195da27c)
 
